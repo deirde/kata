@@ -1,0 +1,31 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@types/jest": "^24.0.22",
+    "@types/node": "^12.12.6",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "5.16.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-i18n-text": "1.0.0",
+    "eslint-plugin-jest": "22.0.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "jest": "^24.1.0",
+    "prettier": "1.17.0",
+    "regenerator-runtime": "^0.12.1",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
