@@ -1,11 +1,11 @@
 .DS_Store
 
-#JS
-ts/node_modules/
+#TS
+ts/node_modules
 ts/package-lock.json
 
 #PHP
-php/vendor/
+php/vendor
 php/.phpunit.result.cache
 php/composer.lock
 php/composer.phar
