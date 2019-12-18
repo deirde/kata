@@ -9,7 +9,7 @@
   "author": "",
   "license": "",
   "devDependencies": {
-    "@types/jest": "^24.0.22",
+    "@types/jest": "^24.0.23",
     "@types/node": "^12.12.6",
     "babel-core": "^6.26.3",
     "babel-jest": "^23.6.0",

@@ -5,7 +5,7 @@ ini_set('xdebug.remote_enable', '0');
 define('ABSPATH', '');
 define('DS', '/');
 
-require_once '../vendor/autoload.php';
+require_once(__DIR__ . '/../vendor/autoload.php');
 require_once('index.php');
 
 use PHPUnit\Framework\TestCase;
