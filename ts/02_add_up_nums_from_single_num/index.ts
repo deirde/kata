@@ -14,7 +14,7 @@ Expect any positive number between 1 and 1000.
 */
 
 export const addUp = (num: number): number => {
-    var response: number = 0;
-    for (let i = 0; i <= num; i++) response += i;
+  let response: number = 0;
+  for (let i = 0; i <= num; i++) response += i;
     return response;
-}
+};
