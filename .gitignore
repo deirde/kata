@@ -1,4 +1,5 @@
 .DS_Store
+/.idea
 
 #TS
 ts/node_modules
