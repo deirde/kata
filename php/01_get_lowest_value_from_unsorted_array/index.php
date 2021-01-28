@@ -1,4 +1,5 @@
 <?php
+
 declare(strict_types=1);
 
 namespace kata {
@@ -17,7 +18,5 @@ namespace kata {
         {
             return (count($arrs) === 1) ? min($arrs[0]) : min($arrs);
         }
-
     }
-
 }

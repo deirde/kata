@@ -1,5 +1,6 @@
 .DS_Store
 /.idea
+/.vscode
 
 #TS
 ts/node_modules
