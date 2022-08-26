@@ -14,5 +14,4 @@ The array may contain even negative numbers.
 
 */
 
-export const getLowest = (arr: Array<number>): number =>
-    Math.min(...arr);
+export const getLowest = (arr: Array<number>): number => Math.min(...arr);
